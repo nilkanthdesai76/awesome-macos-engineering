@@ -142,6 +142,7 @@ Tracking hover, clicks, or gestures outside an application window:
 - [Rectangle](https://github.com/rxhanson/Rectangle) — Window management app written in Swift.
 - [Ice](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS.
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) — Controls external monitor brightness & volume.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) — Restores window layouts and Spaces after reconnecting an external display; USB-C port arrangement presets and ambient brightness sync.
 - [Stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar.
 - [swiftui-notch-kit](https://github.com/nilkanthdesai76/swiftui-notch-kit) — MacBook notch geometry and safe-area toolkit.
 - [menubar-swiftui-template](https://github.com/nilkanthdesai76/menubar-swiftui-template) — Production menu bar extra starter template.
